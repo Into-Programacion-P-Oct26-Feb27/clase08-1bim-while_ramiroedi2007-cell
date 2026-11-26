@@ -29,3 +29,8 @@ public class Ejemplo061 {
         }
     }
 }
+/*
+Nos sirve para ingresar datos hasta el infinito siempre y cuando no se cumpla con 
+la condicion del Mientras ya que como vemos el -100 es como un centinela que 
+para el ciclo cuando se cumple su condicion
+*/
